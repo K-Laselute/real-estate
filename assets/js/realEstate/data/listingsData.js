@@ -54,9 +54,9 @@ var listingsData = [
     },
     {
         address: '956 Diet Coke Ln',
-        city: 'Albquerque',
+        city: 'Albuquerque',
         state: 'NM',
-        rooms: 10,
+        rooms: 9,
         price: 2000000,
         floorSpace: 3000,
         extras: [
@@ -67,8 +67,8 @@ var listingsData = [
         image: 'https://images.squarespace-cdn.com/content/v1/5c5333230cf57debc786f3f1/1569361922830-YQ786WW4SJ2A8RVE7Y97/ke17ZwdGBToddI8pDm48kKmBBSsX_LA0VIDjfzrrSBx7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR22MCulGB6QmyhzDexXh0SH4nwsvCGHcFnJG-7Ilicfiesm8fpB3zYw4SZR-AlygA/_W7A2786.jpg?format=2500w'
     },
     {
-        address: '1985 Suck Face',
-        city: 'Wakanda',
+        address: '1985 Face Ave',
+        city: 'Miami',
         state: 'UT',
         rooms: 1,
         price: 150000,
@@ -77,12 +77,12 @@ var listingsData = [
             'elevator',
             'gym'
         ],
-        homeType: 'Condo',
+        homeType: 'House',
         image: 'https://www.idesignarch.com/wp-content/uploads/Luxury-Modern-Loft-Studio-Apartment-Bangkok-Thailand_1.jpg'
     },
     {
-        address: '666 Satan ave',
-        city: 'Gallup',
+        address: '3206 Trash Ave',
+        city: 'Miami',
         state: 'NM',
         rooms: 3,
         price: 0,
